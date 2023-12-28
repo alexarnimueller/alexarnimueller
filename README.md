@@ -8,7 +8,7 @@
      <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin alex mueller" height="40" width="40" /></a>
   <a href = "mailto: alexarnimueller@protonmail.com">
      <img align="center" src="https://github.com/alexarnimueller/alexarnimueller/blob/main/protonmail.svg" alt="mail alex mueller" height="35" width="40" /></a>
-  <a href = "https://scholar.google.ch/citations?user=Uxxs19AAAAAJ">
+  <a href = "https://scholar.google.ch/citations?user=Uxxs19AAAAAJ" target="blank">
      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="google scholar" height="35" width="40" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
