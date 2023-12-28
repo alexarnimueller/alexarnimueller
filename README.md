@@ -5,9 +5,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/alex-m%C3%BCller-a8257468/" target="blank">
-     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin stefan herdy" height="40" width="40" /></a>
+     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin alex mueller" height="40" width="40" /></a>
   <a href = "mailto: alexarnimueller@protonmail.com">
-     <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="mail stefan herdy" height="35" width="40" /></a>
+     <img align="center" src="https://github.com/alexarnimueller/alexarnimueller/blob/main/protonmail.svg" alt="mail alex mueller" height="35" width="40" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
