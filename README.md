@@ -43,5 +43,5 @@
 <h3 ></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexarnimueller" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexarnimueller&show_icons=true&theme=radical" />
 </p>
