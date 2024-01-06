@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist;Chemoinformatitian;Machine+Learning+Engineer;Web+App+Developer;Challenge-Seeker;Zürich,+Switzerland"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist;Chemoinformatician;Machine+Learning+Engineer;Web+App+Developer;Challenge-Seeker;Zürich,+Switzerland"></a>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
