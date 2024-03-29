@@ -37,8 +37,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.anaconda.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/></a> 
+  <a href="https://mamba.readthedocs.io/" target="_blank"> 
+    <img src="https://mamba.readthedocs.io/en/latest/_static/logo.png" alt="mamba" width="40" height="40"/></a> 
   <a href="https://www.code.visualstudio.com/" target="_blank"> 
     <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/></a> 
   <a href="https://www.jupyter.org/" target="_blank"> 
