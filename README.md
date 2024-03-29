@@ -24,7 +24,7 @@
   <a href="https://www.pytorch.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
   <a href="https://github.com/google/jax" target="_blank"> 
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg](https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg)" alt="pytorch" width="40" height="40"/></a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg" alt="jax" width="40" height="40"/></a>
   <a href="https://www.docker.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"> 
