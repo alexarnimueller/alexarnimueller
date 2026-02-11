@@ -47,8 +47,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/></a>
 </p>
 <h3 ></h3>
-
-<p align="center" style="text-align: top;">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexarnimueller&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexarnimueller&layout=compact&hide=jupyter%20notebook" />
-</p>
