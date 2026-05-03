@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist;Cheminformatician;Machine+Learning+Engineer;Web+App+Developer;Challenge-Seeker;Zürich,+Switzerland"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=[...]
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -12,7 +12,7 @@
      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="google scholar" height="35" width="40" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"> 
